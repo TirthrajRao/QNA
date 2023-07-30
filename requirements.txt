@@ -3,3 +3,4 @@ streamlit
 cohere
 chromadb
 pysqlite3-binary
+pysqlite3
